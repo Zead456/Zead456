@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zead456
-- 👀 I’m interested in Programming with C++ and Javascript. I used to program in C# too, when I was creating having fun in unity.
-- 🌱 I’m currently learning Javascript. Since web development is important and can be very useful.
+- 👋 Howdy, call me Zead. Yea... just Zead.
+- 👀 So what is Zead, you ask? A multilingual clean freak, reader, microbiologist, gamer, programmer, and music lover.
+- 🌱 Wham Bam Shang-A-Lang
 
 <!---
 Zead456/Zead456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
